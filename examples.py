@@ -9,7 +9,7 @@ print(staff['bbb22'][0])
 
 def a_dec(func):
     def inner1():
-        print("Hell before function execution")
+        print("before function execution")
         func()
         print("after function execution")
 
