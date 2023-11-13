@@ -8,7 +8,7 @@ user = {"kmeijome": {"password": '9999'}, "selin2": {"password": '1234'}}
 
 # main window
 win = Tk()
-win.title('Inventory System')
+win.title('Inventory Tracker')
 win.geometry('900x600')
 win.columnconfigure(0, weight=1)
 win.config(bg='#0040ff')
